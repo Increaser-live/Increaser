@@ -1,0 +1,6 @@
+dist/
+android/build/
+android/assets/
+__pycache__/
+*.keystore
+*.jks
